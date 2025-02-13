@@ -75,7 +75,7 @@ I want to access detailed documentation and troubleshooting guides, so that I ca
 #### Task:
 - Create a **troubleshooting guide** for common GiggleGit onboarding issues.  
 
-#### **Tickets:
+#### Tickets:
 - **Develop GiggleGit Troubleshooting Guide**  
   - List common issues (e.g., merge conflicts, meme handling failures).  
   - Provide **recommended solutions**.  
@@ -106,7 +106,7 @@ I want an interactive tutorial that demonstrates how merges are managed with mem
 
 ---
 
-### 🚨 Why is this not a user story?  
+### Why is this not a user story?  
 **"As a user I want to be able to authenticate on a new machine"**  
 This is **not** a user story because it does not explain why the feature is needed. Instead, this would be classified as a function requirement. 
 
